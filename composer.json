@@ -1,0 +1,21 @@
+{
+    "name": "sanda/testing-task",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "_Steel_Rat_",
+            "email": "maximsiteshop@mail.ru"
+        }
+    ],
+    "require": {
+        "moneyphp/money": "^3.3"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4",
+        "phpunit/phpunit": "^8.5"
+    }
+}

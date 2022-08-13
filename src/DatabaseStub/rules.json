@@ -1,0 +1,52 @@
+[
+  {
+    "Bank"  : "Sberbank",
+    "Notify": false,
+    "Cur"   : "RUB",
+    "Left"  : 1,
+    "Right" : 1000,
+    "Fee"   : 4,
+    "FeeFix": 1,
+    "FeeMin": 3
+  },
+  {
+    "Bank"  : "Sberbank",
+    "Notify": false,
+    "Cur"   : "RUB",
+    "Left"  : 1000,
+    "Right" : 10500,
+    "Fee"   : 3,
+    "FeeFix": 1,
+    "FeeMin": 3
+  },
+  {
+    "Bank"  : "Sberbank",
+    "Notify": true,
+    "Cur"   : "EUR",
+    "Left"  : 1,
+    "Right" : 10000,
+    "Fee"   : 7,
+    "FeeFix": 1,
+    "FeeMin": 4
+  },
+  {
+    "Bank"  : "Qiwi",
+    "Notify": true,
+    "Cur"   : "RUB",
+    "Left"  : 1,
+    "Right" : 75000,
+    "Fee"   : 5,
+    "FeeFix": 0,
+    "FeeMin": 3
+  },
+  {
+    "Bank"  : "Tinkoff",
+    "Notify": false,
+    "Cur"   : "RUB",
+    "Left"  : 15000,
+    "Right" : 999999,
+    "Fee"   : 3,
+    "FeeFix": 100,
+    "FeeMin": 200
+  }
+]
